@@ -2,6 +2,7 @@
 
 
 // takes integer x and returns the double of it
+
 int d(int x) {
 	return x*2;
 }

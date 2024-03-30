@@ -1,7 +1,8 @@
 #include <stdio.h>
-#include <sys/limits.h> // change this line to "#include <limits.h>" incase it doesn't compile
+#include <limits.h>
 #include <math.h>
 #include <float.h>
+
 int main(int argc, char **argv) {
 	printf("printf escape characters are prefixed with a backslash \\\n");
 	printf("A literal backslash can be written with: \"\\\\\"\n");

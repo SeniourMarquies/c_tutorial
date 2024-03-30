@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 int main(int argc, char **argv) {
+
 	// we declare 3 variables with the names t_c1, t_c2, and t_c3 and give
 	// them the values 55, 100, and 222.4 respectively
 	double t_c1 = 55, t_c2 = 100, t_c3 = 222.4;

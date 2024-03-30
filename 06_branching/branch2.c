@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdbool.h>
+
 int main() {
+
+
+	// do not forget adding define and int way.
 	bool a = 1, b = 1, c = 1;
 
 	if(a && b && c) {

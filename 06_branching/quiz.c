@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
 	char c;
 	int correct_answer_count = 0;
