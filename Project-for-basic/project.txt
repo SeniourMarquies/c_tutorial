@@ -1,0 +1,31 @@
+Initialize variables:
+int playerChoice
+int computerChoice
+int result
+
+Display instructions and menu:
+Print "Welcome to Rock-Paper-Scissors!"
+Print "Choose your move:"
+Print "1. Rock"
+Print "2. Paper"
+Print "3. Scissors"
+
+Get user input:
+Read playerChoice from user (1 for Rock, 2 for Paper, 3 for Scissors)
+
+Generate computer's choice randomly:
+Generate a random number between 1 and 3 for computerChoice
+
+Determine the winner:
+If playerChoice equals computerChoice, set result to 0 (tie)
+Else if playerChoice beats computerChoice, set result to 1 (player wins)
+Else, set result to -1 (computer wins)
+
+Display results:
+If result is 0, print "It's a tie!"
+Else if result is 1, print "You win!"
+Else print "Computer wins!"
+
+Repeat steps 3-6 if the player wants to play again.
+
+End the game.
