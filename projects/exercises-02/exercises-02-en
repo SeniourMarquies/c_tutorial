@@ -1,0 +1,17 @@
+Prime Number Finder: To check whether a number is prime or not, check all the divisors starting from 2 up to the number. If no exact divisor is found, the number is prime.
+
+Factorial Calculator:A loop is usually used for factorial calculation. For example, you can perform multiplication at each step by decreasing the number by 1.
+
+Square Matrix Generator: To create a square matrix based on the number received from the user, you can use a twofold array. You can determine each element of the matrix with the help of two for loops.
+
+Fibonacci Series: A Fibonacci series is a series in which each number is the sum of the two numbers before it. You can calculate these numbers in a loop, using 0 and 1 to start.
+
+
+Word Reverse: You can use a loop to reverse print the word or sentence the user enters.
+
+Character Counter: You can use a loop that checks each letter in the sentence the user enters and counts how many letters and numbers there are.
+Reverse Number Array: Store the numbers entered by the user in an array. You can print numbers to the screen by using a backward loop, starting from the last element of the array.
+
+Exponentiation Program: A loop is usually used for exponentiation. You can use a loop to multiply the base to the exponent as many times.
+
+Multiplication Table Generator: You can use two for loops to create a multiplication table based on the number entered by the user. The first loop will calculate the multipliers and the second loop will calculate the multiplication results.

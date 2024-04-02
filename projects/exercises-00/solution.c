@@ -28,13 +28,13 @@ do
 
     // Validate player's input:
     if (playerChoice < 1 || playerChoice > 3) {
-        message("Invalid choice. Please choose 1, 2, or 3.");
+        message("Invalid choice. Please choose 1, 2, or 3\a.");
         return -1; // Exit with error
     }
 
     // Generate computer's choice randomly:
     srand(time(NULL));
-    int random_number =getRandomNumber(3);
+    int random_number = getRandomNumber(3);
     computerChoice = random_number;
 
     // Determine the winner:

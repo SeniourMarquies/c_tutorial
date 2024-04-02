@@ -1,0 +1,18 @@
+Asal Sayı Bulucu: Bir sayının asal olup olmadığını kontrol etmek için, 2'den başlayarak sayıya kadar olan bütün tam bölenleri kontrol edin. Eğer hiçbir tam bölen bulunamazsa, sayı asaldır.
+
+Faktöriyel Hesaplayıcı:Faktöriyel hesaplama için genellikle bir döngü kullanılır. Örneğin, sayıyı 1'e kadar azaltarak çarpmayı her adımda gerçekleştirebilirsiniz.
+
+Kare Matris Oluşturucu:Kullanıcıdan alınan sayıya göre bir kare matris oluşturmak için, iki katlı bir dizi kullanabilirsiniz. İki for döngüsü yardımıyla matrisin her elemanını belirleyebilirsiniz.
+
+Fibonacci Serisi:Fibonacci serisi, her sayının kendisinden önceki iki sayının toplamı olduğu bir dizidir. Başlangıç için 0 ve 1'i kullanarak bir döngü içinde bu sayıları hesaplayabilirsiniz.
+
+
+Kelime Ters Çevirici:Kullanıcının girdiği kelimeyi veya cümleyi tersten yazdırmak için bir döngü kullanabilirsiniz.
+
+Karakter Sayacı: Kullanıcının girdiği cümledeki her harfi kontrol ederek kaç adet harf ve rakam olduğunu sayan bir döngü kullanabilirsiniz.
+Ters Sayı Dizisi: Kullanıcının girdiği sayıları bir diziye kaydedin. Dizinin son elemanından başlayarak geriye doğru bir döngü kullanarak sayıları ekrana yazdırabilirsiniz.
+
+Üs Alma Programı: Üs alma işlemi için genellikle bir döngü kullanılır. Tabanı üssü kadar kez çarpmak için bir döngü kullanabilirsiniz.
+
+Çarpım Tablosu Oluşturucu:Kullanıcının girdiği sayıya göre bir çarpım tablosu oluşturmak için iki for döngüsü kullanabilirsiniz. İlk döngü çarpanları, ikinci döngü ise çarpım sonuçlarını hesaplayacaktır.
+
